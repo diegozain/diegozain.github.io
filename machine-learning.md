@@ -6,4 +6,6 @@ layout: default
 
 ## machine learning
 
-_yay_
+under construction.
+
+[![](images/dudes.png)](./)
