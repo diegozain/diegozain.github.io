@@ -4,7 +4,7 @@ layout: default
 
 [![](images/diegozain.png)](./)
 
-## noise
+## passive source
 
 Finding information from passive measurements can be done for many types of data and it can be done in many ways.
 
