@@ -14,6 +14,6 @@ Forward modeling of ground penetrating **radar** and **electrical resistivity** 
 
 ### **[Wave utils](https://github.com/diegozain)**
 
-Code suite for processing waveforms as recorded by receivers in the field. Features include: frequency domain filtering, beamforming analysis, fre- quency time analysis, multichannel analysis of surface waves, and virtual source gathers by seismic interferometry.
+Code suite for processing waveforms as recorded by receivers in the field. Features include: frequency domain filtering, beamforming analysis, frequency time analysis, multichannel analysis of surface waves, and virtual source gathers by seismic interferometry.
 
 [![](images/dudes.png)](./)
