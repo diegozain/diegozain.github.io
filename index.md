@@ -16,6 +16,14 @@ Previous interests include graph theory, error correcting codes, finite geometri
 
 ***
 
+## My PhD
+
+### [gerjoii](https://github.com/diegozain/gerjoii)
+
+ground penetrating radar and electrical resistivity joint inversion
+
+***
+
 ## Media coverage
 
 [Here](https://www.boisestatepublicradio.org/post/boise-state-students-search-bodies-old-idaho-pen#stream/0) is a radio interview about finding graves at the [Old Idaho Penitentiary](https://history.idaho.gov/location/old-penitentiary/), which is also covered [here](https://www.boisestate.edu/news/2019/03/05/geophysics-club-works-to-help-solve-mysteries-in-historic-boise-cemetery/).
