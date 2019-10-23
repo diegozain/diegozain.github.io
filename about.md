@@ -10,4 +10,6 @@ You can find my resume [here](https://github.com/diegozain/cv-resume/blob/master
 
 [Here](https://github.com/diegozain/posters) are posters from previous conferences.
 
+My email is [here](diegodomenzain@u.boisestate.edu).
+
 [![](images/dudes.png)](./)
