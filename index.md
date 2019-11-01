@@ -14,17 +14,13 @@ I acquire, analyze and process big volumes of data using math and physics by des
 
 Previous interests include graph theory, error correcting codes, finite geometries and combinatorics.
 
-***
-
 ## My PhD
 
-### [gerjoii](https://github.com/diegozain/gerjoii)
+### [gerjoii](https://diegozain.github.io/gerjoii)
 
-ground penetrating radar and electrical resistivity joint inversion
+ground penetrating radar and electrical resistivity joint inversion - [code](https://github.com/diegozain/gerjoii)
 
 [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2018.
-
-***
 
 ## Media coverage
 
