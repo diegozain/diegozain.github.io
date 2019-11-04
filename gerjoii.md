@@ -10,12 +10,14 @@ Forward modeling of ground penetrating **radar** and **electrical resistivity** 
 
 # Radar on trees
 
-Supports forward modeling & inversion of radar on trees.
+Forward modeling of radar on trees.
+
+![](images/wavefield.gif)
 
 # ER 2.5d inversion
 
 Supports 2.5d inversion of ER data.
-Below is an example of an alluvial aquifer. Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
+Below is an example of an imaged alluvial aquifer. Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
 
 ![](images/bhrs-dc.png)
 
