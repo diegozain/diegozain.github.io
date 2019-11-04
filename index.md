@@ -12,11 +12,11 @@ I am interested in applying physics, mathematics and high performance computing 
 
 I acquire, analyze and process big volumes of data using math and physics by designing and deploying computational algorithms. I specialize in scientific computing, numerical methods, forward models, inverse problems, imaging methods, geophysics and machine learning.
 
-Previous interests include graph theory, error correcting codes, finite geometries and combinatorics. You can find that [here.](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds)
+Previous interests include graph theory, error correcting codes, finite geometries and combinatorics. You can find that [here](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds).
 
 ## My PhD
 
-### [gerjoii](https://diegozain.github.io/gerjoii)
+### [gerjoii](./gerjoii)
 
 ground penetrating radar and electrical resistivity joint inversion - [code](https://github.com/diegozain/gerjoii)
 
