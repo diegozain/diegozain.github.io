@@ -10,17 +10,18 @@ Forward modeling of ground penetrating **radar** and **electrical resistivity** 
 
 For a digested tour go [here](https://github.com/diegozain/gerjoii/blob/master/docs/manuals/about/gerjoii-show.pdf), for the code [here](https://github.com/diegozain/gerjoii).
 
-# Radar on trees
-
-Forward modeling of radar on trees.
-
-![](images/wavefield.gif)![](images/line1-tree.png)
-
 # ER 2.5d inversion
 
 Supports 2.5d inversion of ER data.
 Below is an example of an imaged alluvial aquifer. Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
 
+![](images/bhrs-er.png)
 ![](images/bhrs-dc.png)
+
+# Radar on trees
+
+Forward modeling of radar on trees.
+
+![](images/wavefield.gif)![](images/line1-tree.png)
 
 [![](images/dudes.png)](./)
