@@ -16,7 +16,7 @@ Supports 2.5d inversion of ER data.
 Below is an example of an imaged alluvial aquifer. Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
 
 ![](images/bhrs-er.png)
-![](images/bhrs-dc.png)
+![](images/bhrs-dc.jpg)
 
 # Radar on trees
 
