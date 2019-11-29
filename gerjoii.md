@@ -12,12 +12,6 @@ Understanding material properties of the subsurface can help us find energy reso
 
 For a digested code-tour go [here](https://github.com/diegozain/gerjoii/blob/master/docs/manuals/about/gerjoii-show.pdf), for the code [here](https://github.com/diegozain/gerjoii).
 
-# GPR+ER joint inversion 
-
-Synthetic example of true and recovered parameters. Cyan dots represent acquisition receivers.
-
-![](images/true-srcs-recs.png)![](images/parameters.gif)
-
 # ER 2.5d inversion
 
 Supports 2.5d inversion of ER data. Below is an example of an imaged alluvial aquifer. 
