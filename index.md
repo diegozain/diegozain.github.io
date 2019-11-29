@@ -16,7 +16,7 @@ Previous interests include graph theory, error correcting codes, finite geometri
 
 [![](images/diegozain-gerjoii-mini.png)](./gerjoii)
 
-ground penetrating radar and electrical resistivity high resolution joint inversion - [code](https://github.com/diegozain/gerjoii)
+__ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii)
 
 High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
