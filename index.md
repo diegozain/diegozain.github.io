@@ -14,7 +14,7 @@ Previous interests include graph theory, error correcting codes, finite geometri
 
 ## Imaging the subsurface
 
-### [gerjoii](./gerjoii)
+[![](images/diegozain-gerjoii-mini.png)](./gerjoii)
 
 ground penetrating radar and electrical resistivity high resolution joint inversion - [code](https://github.com/diegozain/gerjoii)
 
