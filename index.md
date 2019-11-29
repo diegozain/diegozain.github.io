@@ -10,19 +10,15 @@ layout: default
 
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. 
 
-I acquire, analyze and process big volumes of data using math and physics by designing and deploying computational algorithms. I specialize in scientific computing, numerical methods, forward models, inverse problems, imaging methods, geophysics and machine learning.
-
 Previous interests include graph theory, error correcting codes, finite geometries and combinatorics. You can find that [here](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds).
 
-## My PhD
+## Imaging the subsurface
 
 ### [gerjoii](./gerjoii)
 
 ground penetrating radar and electrical resistivity high resolution joint inversion - [code](https://github.com/diegozain/gerjoii)
 
-High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity since they shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
-
-Their sensitivities to physical parameters offer qualitative and quantitative insight to natural phenomena without the need of empirical relationships.
+High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
 [![](images/wavefield.gif)](./gerjoii)
 

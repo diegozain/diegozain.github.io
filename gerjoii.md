@@ -2,15 +2,21 @@
 layout: default
 ---
 
-[![](images/diegozain.png)](./)
+[![](images/diegozain-gerjoii-mini.png)](./)
 
 ## [Gerjoii](https://github.com/diegozain/gerjoii)
 
-Gerjoii is: Forward modeling of ground penetrating **radar** and **electrical resistivity** together with a novel 2.5d joint multi-parameter **inversion algorithm** that recovers electrical **permittivity** and **conductivity** of the subsurface from surface acquired radar and resistivity data. Included is a machine learning routine (PyTorch) for finding the weights needed for the inversion.
+Gerjoii is: forward modeling of ground penetrating **radar** and **electrical resistivity** together with a novel 2.5d joint multi-parameter **inversion algorithm** that recovers electrical **permittivity** and **conductivity** of the subsurface from surface acquired radar and resistivity data. Included is a machine learning routine (PyTorch) for finding the weights needed for the inversion.
 
 Understanding material properties of the subsurface can help us find energy resources (i.e. oil, gas, geothermal), mitigate hazards, monitor CO2 sequestration sites, understand ground-water flow, map magma chambers and budget water availability.
 
 For a digested code-tour go [here](https://github.com/diegozain/gerjoii/blob/master/docs/manuals/about/gerjoii-show.pdf), for the code [here](https://github.com/diegozain/gerjoii).
+
+# GPR+ER joint inversion 
+
+Synthetic example of true and recovered parameters. Cyan dots represent acquisition receivers.
+
+![](images/true-srcs-recs.png)![](images/parameters.gif)
 
 # ER 2.5d inversion
 
