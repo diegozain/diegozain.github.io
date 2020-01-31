@@ -10,7 +10,7 @@ You can find my resume [here](https://github.com/diegozain/cv-resume/blob/master
 
 [Here](https://github.com/diegozain/posters) are posters from previous conferences.
 
-My email is diegodomenzain @ u.boisestate.edu (all together).
+My email is diegodomenzain@u.boisestate.edu
 
 I used to make [cool videos](https://vimeo.com/muantariclo). Buñuel would be proud, Dalí would be jealous.
 

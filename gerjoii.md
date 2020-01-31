@@ -23,8 +23,14 @@ Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is 
 
 # Radar on trees
 
-Forward modeling of radar on trees.
+Forward modeling of radar on trees. _Left_ is the wavefield in the tree and _right_ is the observed data.
 
 ![](images/wavefield.gif)![](images/line1-tree.png)
+
+# Finding graves
+
+Every black dot represents a known grave marker from the image on the left.
+
+[![](images/idaho-energy.jpg)](./)
 
 [![](images/dudes.png)](./)

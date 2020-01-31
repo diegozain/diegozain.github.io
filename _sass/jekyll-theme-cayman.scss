@@ -87,14 +87,66 @@ a {
   }
 }
 
+.btn2 {
+  display: block;
+  margin-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  
+  width: 5rem;
+  height: 3rem;
+  color: rgba(200, 255, 0, 1);
+  background-color: rgba(220, 220, 255, 0.3);
+  border-color: rgba(220, 220, 255, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 180, 0, 0.4);
+    border-color: rgba(255, 180, 0, 0.5);
+  }
+
+  + .btn2 {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn2 {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background: url(#{$images-folder}/noise-tv.png);
+  // background-color: $header-bg-color;
+  background-image: url(#{$images-folder}/fondo-bn.png);
+  background-size: cover;
+  background-position: center;
   width: 100%;
   @include large {
-    padding: 5rem 6rem;
+    padding: 2rem 6rem;
   }
 
   @include medium {
