@@ -8,7 +8,7 @@ layout: default
 
 You can find my resume [here](https://github.com/diegozain/cv-resume/blob/master/resume.pdf) and my CV [here](https://github.com/diegozain/cv-resume/blob/master/diego-cv.pdf).
 
-[Here](https://github.com/diegozain/posters?files1) are posters from previous conferences.
+[Here](https://github.com/diegozain/posters?files=1) are posters from previous conferences.
 
 My email is diegodomenzain@u.boisestate.edu
 
