@@ -3,6 +3,7 @@ layout: default
 ---
 
 [![](images/diegozain.png)](./)
+[code](https://github.com/diegozain/)
 
 ## My thing
 

@@ -76,7 +76,7 @@ a {
 
   @include small {
     display: block;
-    width: 100%;
+    width: 50%;
     padding: 0.75rem;
     font-size: 0.9rem;
 
@@ -126,7 +126,7 @@ a {
 
   @include small {
     display: block;
-    width: 100%;
+    width: 50%;
     padding: 0.75rem;
     font-size: 0.9rem;
 
@@ -171,7 +171,7 @@ a {
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 2rem;
   }
 }
 
