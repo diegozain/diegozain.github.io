@@ -24,7 +24,7 @@ __True model of the subsurface. This model is made up because this is a syntheti
 
 ![](images/true-dibujo-sy.png)
 
-__Below is the radar wavefield. In the field we do not "see" this since radar is not visible for humans, and we do not have access in depth. This is a simulation of what it would look like. The receivers are depicted by cyan dots.__
+__Below is the radar wavefield. In the field we do not "see" this since radar is not visible for humans, and we do not have access in depth. This is a simulation of what the electromagnetic wavefield looks like. The receivers are depicted by cyan dots.__
 
 ![](images/wavefield-color.gif)
 
