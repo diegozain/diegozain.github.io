@@ -34,3 +34,5 @@ Every black dot represents a known grave marker from the image on the left.
 [![](images/idaho-energy.jpg)](./)
 
 [![](images/dudes.png)](./)
+
+[![](images/wavefield-lava.gif)](./)
