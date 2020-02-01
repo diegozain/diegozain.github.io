@@ -18,6 +18,20 @@ Forward modeling of ground penetrating **radar** and **electrical resistivity** 
 
 Code suite for processing waveforms as recorded by receivers in the field. Features include: frequency domain filtering, beamforming analysis, frequency time analysis, multichannel analysis of surface waves, and virtual source gathers by seismic interferometry. Lives inside [Gerjoii.](https://github.com/diegozain/gerjoii)
 
-[![](images/dudes.png)](./)
+### Radar synthetic example
 
-[![](images/wavefield-lava.gif)](./)
+__True model of the subsurface. This model is made up because this is a synthetic example.__
+
+![](images/true-dibujo-sy.png)
+
+__Below is the radar wavefield. In the field we do not "see" this since radar is not visible for humans, and we do not have access in depth. This is a simulation of what it would look like. The receivers are depicted by cyan dots.__
+
+![](images/wavefield-lava.gif)
+
+__This is the data. The data is acquired by the receivers on the surface.__
+
+![](images/line1_d1_observed-dibujo-sy.png)
+
+__The question now is, given JUST the data, how do we recover the subsurface parameters?__
+
+[![](images/dudes.png)](./)
