@@ -28,7 +28,7 @@ __Below is the radar wavefield. In the field we do not "see" this since radar is
 
 ![](images/wavefield-color.gif)
 
-__This is the data. The data is acquired by the receivers on the surface.__
+__Below is the data. The data is acquired by the receivers on the surface.__
 
 ![](images/line1_d1_observed-dibujo-sy.png)
 
