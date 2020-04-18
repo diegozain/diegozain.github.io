@@ -12,8 +12,6 @@ My email is domenzain.diego@gmail.com
 
 [Here](https://github.com/diegozain/posters?files=1) are posters from previous conferences.
 
-I used to make [cool videos](https://vimeo.com/muantariclo). Buñuel would be proud, Dalí would be jealous.
+I used to make [cool videos](https://vimeo.com/muantariclo) too. Buñuel would be proud, Dalí would be jealous.
 
-[![](images/dudes.png)](./)
-
-[![](images/wavefield-lava.gif)](./)
+[![](images/quantum-code-.png)](./)

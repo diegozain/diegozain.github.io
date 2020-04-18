@@ -6,13 +6,15 @@ layout: default
 
 [code!](https://github.com/diegozain/)
 
-## My thing
+# My thing
 
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. 
 
 Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./resume.pdf).
 
-Previous interests include graph theory, error correcting codes, finite geometries and combinatorics. You can find that [here](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds).
+[Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
+
+![](images/quantum-code.png) [![](images/pg-master.png)](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds)
 
 ## Imaging the subsurface
 
