@@ -8,9 +8,11 @@ layout: default
 
 # My thing
 
+I am currently a post-doc fellow at Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/). 
+
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. 
 
-Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./resume.pdf).
+I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./resume.pdf).
 
 [Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
 
@@ -20,7 +22,7 @@ Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./re
 
 [![](images/diegozain-gerjoii-mini.png)](./gerjoii)
 
-__ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
+My PhD was about __ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
 
 High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
