@@ -10,11 +10,9 @@ layout: default
 
 I am currently a post-doc fellow at Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/). 
 
-I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. 
+I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./resume.pdf).
 
-I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my [curriculum vitae](./diego-cv.pdf) and my [resume](./resume.pdf).
-
-[Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
+During my PhD I developed a non-linear optimization method for high-resolution imaging of the subsurface by joining two different types of electromagnetic surface-acquired data. [Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
 
 ![](images/quantum-code.png) [![](images/pg-master.png)](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds)
 
