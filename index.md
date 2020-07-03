@@ -14,6 +14,8 @@ I am interested in applying physics, mathematics and high performance computing 
 
 During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-linear optimization method for high-resolution imaging of the subsurface by joining two different types of electromagnetic surface-acquired data. [Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
 
+[Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) & [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl)
+
 ![](images/quantum-code.png) [![](images/pg-master.png)](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds)
 
 ## Imaging the subsurface
