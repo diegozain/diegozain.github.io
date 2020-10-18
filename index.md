@@ -18,6 +18,16 @@ During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-
 
 ![](images/quantum-code.png) [![](images/pg-master.png)](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds)
 
+## Publications
+
+* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
+
+* [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
+
+* [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2020.
+
+* [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2018.
+
 ## Imaging the subsurface
 
 [![](images/diegozain-gerjoii-mini.png)](./gerjoii)
@@ -27,14 +37,6 @@ My PhD was about __ground penetrating radar and electrical resistivity high reso
 High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
 [![](images/wavefield.gif)](./gerjoii)
-
-* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
-
-* [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
-
-* [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2020.
-
-* [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2018.
 
 ## Media coverage
 
