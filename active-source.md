@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[![](images/diegozain-gerjoii-mini.png)](./)
-
-## active source
+## Active source
 
 Understanding material properties of the subsurface can help us find energy resources (i.e. oil, gas, geothermal), mitigate hazards, monitor CO2 sequestration sites, understand ground-water flow, map magma chambers and budget water availability.
 
@@ -38,5 +36,3 @@ Forward modeling of radar on trees. _Left_ is the wavefield in the tree and _rig
 Every black dot represents a known grave marker from the image on the left.
 
 [![](images/idaho-energy.jpg)](./)
-
-[![](images/dudes.png)](./)

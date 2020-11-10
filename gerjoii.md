@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## active source
+## Active source
 
 Understanding material properties of the subsurface can help us find energy resources (i.e. oil, gas, geothermal), mitigate hazards, monitor CO2 sequestration sites, understand ground-water flow, map magma chambers and budget water availability.
 

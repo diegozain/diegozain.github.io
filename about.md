@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[![](images/diegozain.png)](./)
-
-## about me
+## About me
 
 You can find my resume **[here](./resume.pdf)** and my CV **[here](./diego-cv.pdf)**.
 
