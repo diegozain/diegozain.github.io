@@ -14,11 +14,13 @@ During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-
 
 ## Publications
 
-* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
-
 * [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
 
+* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. Geophysics, 2020.
+
 * [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2020.
+
+* [Joint inversion of full-waveform GPR and ER data enhanced by the envelope transform and cross-gradients]https://library.seg.org/doi/10.1190/gpr2020-087.1), __Diego Domenzain, John Bradford, and Jodi Mead__. 18th International Conference on Ground Penetrating Radar, Golden, Colorado 2020.
 
 * [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2018.
 
