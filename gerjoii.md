@@ -6,8 +6,6 @@ layout: default
 
 Understanding material properties of the subsurface can help us find energy resources (i.e. oil, gas, geothermal), mitigate hazards, monitor CO2 sequestration sites, understand ground-water flow, map magma chambers and budget water availability.
 
-[![](images/diegozain-gerjoii-mini.png)](./)
-
 ## [Gerjoii](https://github.com/diegozain/gerjoii)
 
 Gerjoii is: forward modeling of ground penetrating **radar** and **electrical resistivity** together with a novel 2.5d joint multi-parameter **inversion algorithm** that recovers electrical **permittivity** and **conductivity** of the subsurface from surface acquired radar and resistivity data. Included is a machine learning routine (PyTorch) for finding the weights needed for the inversion.
@@ -38,5 +36,3 @@ Forward modeling of radar on trees. _Left_ is the wavefield in the tree and _rig
 Every black dot represents a known grave marker from the image on the left.
 
 [![](images/idaho-energy.jpg)](./)
-
-[![](images/dudes.png)](./)

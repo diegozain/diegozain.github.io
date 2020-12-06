@@ -8,9 +8,9 @@ I am currently a post-doc fellow at Colorado School of Mines in the [Geophysics 
 
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
 
-During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-linear optimization method for high-resolution imaging of the subsurface by joining two different types of electromagnetic surface-acquired data. [Previous interests](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) include graph theory, error correcting codes, finite geometries and combinatorics.
+During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-linear optimization method for high-resolution imaging of the subsurface by joining two different types of electromagnetic surface-acquired data. During my [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) I worked on graph theory, error correcting codes, finite geometries and combinatorics.
 
-[Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) & [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) & [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain)
+[Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) & [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) & [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain) & [GitHub](https://github.com/diegozain/)
 
 ## Publications
 
@@ -18,15 +18,15 @@ During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-
 
 * [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_ 2020.
 
-* [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2020.
+* [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2020.
 
-* [Joint inversion of full-waveform GPR and ER data enhanced by the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/gpr2020-087.1), __Diego Domenzain, John Bradford, and Jodi Mead__. 18th International Conference on Ground Penetrating Radar, Golden, Colorado 2020.
+* [Joint inversion of full-waveform GPR and ER data enhanced by the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/gpr2020-087.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _18th International Conference on Ground Penetrating Radar, Golden, Colorado_ 2020.
 
-* [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. SEG Technical Program Expanded Abstracts 2018.
+* [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2018.
 
 ## Imaging the subsurface
 
-My PhD was about __ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/active-source), [webpage](./gerjoii)
+My PhD was about __ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
 
 High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
