@@ -12,7 +12,7 @@ layout: default
 
 ### Enhancement of physics-based methods
 
-This _toy problem_ explores question No. 1 and No. 2, without trying to substitute physics with deep learning. The code is [here](https://github.com/diegozain/alles/tree/master/projects/deep-learning/pic2pic).
+This _toy problem_ explores questions No. 1 and No. 2, without trying to substitute physics with deep learning. The code is [here](https://github.com/diegozain/alles/tree/master/projects/deep-learning/pic2pic).
 
 Imagine we have a physics-based inversion result of the subsurface. Can we make it more accurate?
 
@@ -34,3 +34,4 @@ Figure 4 shows subsurface models that were not used during training. Figure 5 sh
 
 ![](images/pic2pic_test_y-.png)
 
+---
