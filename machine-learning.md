@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## deep learning
+# Deep learning
 
 1. Can we find the least number of examples possible for training a deep learning network?
 
@@ -10,7 +10,7 @@ layout: default
 
 1. Is deep learning worth the effort over physics-based methods?
 
-### Enhancement of physics-based methods
+## Enhancement of physics-based methods
 
 This _toy problem_ explores questions No. 1 and No. 2, without trying to substitute physics with deep learning. The code is [here](https://github.com/diegozain/alles/tree/master/projects/deep-learning/pic2pic).
 
