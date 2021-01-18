@@ -18,7 +18,7 @@ For a wide variety of projects, please visit [__alles__](https://github.com/dieg
 
 * [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
 
-* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_ 2020.
+* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
 
 * [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2020.
 
@@ -28,7 +28,7 @@ For a wide variety of projects, please visit [__alles__](https://github.com/dieg
 
 ## Imaging the subsurface
 
-My PhD was about __ground penetrating radar and electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
+My PhD was about __ground penetrating radar and DC electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
 
 High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
 
