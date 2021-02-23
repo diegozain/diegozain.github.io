@@ -18,7 +18,7 @@ For a wide variety of projects, please visit [__alles__](https://github.com/dieg
 
 ## Publications
 
-* [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics_, In press. 2021.
+* [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 86_. 2021.
 
 * [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
 
