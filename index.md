@@ -4,7 +4,7 @@ layout: default
 
 # My thing
 
-I am currently a post-doc fellow at Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/). 
+I am currently a post-doc fellow at Aarhus University in the [Hydro-Geophysics Group](https://hgg.au.dk/). Previously, I was in Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/). 
 
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
 
