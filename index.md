@@ -4,7 +4,9 @@ layout: default
 
 # My thing
 
-I am currently a post-doc fellow at Aarhus University in the [Hydro-Geophysics Group](https://hgg.au.dk/). Previously, I was in Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/). 
+I am an applied mathematician (mostly) interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization).
+
+I am currently a post-doc fellow at Aarhus University in the [Hydro-Geophysics Group](https://hgg.au.dk/). Previously, I was in Colorado School of Mines in the [Geophysics Department](https://cwp.mines.edu/faculty/).
 
 I am interested in applying physics, mathematics and high performance computing for the betterment of humanity and exploration of reality. I hold a Master in Mathematics and a PhD in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
 
