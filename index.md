@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 🔵 my thing
+# my thing
 
 I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization).
 
@@ -18,7 +18,7 @@ For a wide variety of projects, please visit [__alles__](https://github.com/dieg
 
 • [Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) • [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) • [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain) • [GitHub](https://github.com/diegozain/) •
 
-## 📚 publications
+## publications
 
 * [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 86_. 2021.
 
@@ -32,7 +32,7 @@ For a wide variety of projects, please visit [__alles__](https://github.com/dieg
 
 * [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2018.
 
-## 📡 imaging the subsurface
+## imaging the subsurface
 
 My PhD was about __ground penetrating radar and DC electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
 
@@ -40,7 +40,7 @@ High-resolution non-invasive electrical methods for imaging the shallow subsurfa
 
 [![](images/wavefield-lava.gif)](./gerjoii)
 
-## 📺 media coverage
+## media coverage
 
 [Here](https://www.boisestatepublicradio.org/post/boise-state-students-search-bodies-old-idaho-pen#stream/0) is a radio interview about finding graves at the [Old Idaho Penitentiary](https://history.idaho.gov/location/old-penitentiary/), which is also covered [here](https://www.boisestate.edu/news/2019/03/05/geophysics-club-works-to-help-solve-mysteries-in-historic-boise-cemetery/) and [here](./gerjoii).
 
