@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About me
+## 😎 about me
 
 You can find my resume **[here](./resume.pdf)** and my CV **[here](./diego-cv.pdf)**.
 
