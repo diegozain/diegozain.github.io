@@ -4,7 +4,7 @@ layout: default
 
 # 🔵 my thing
 
-I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization). My main focus is developing new exploration geophysics methods.
+I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization). My main focus is developing new [exploration-geophysics](https://en.wikipedia.org/wiki/Exploration_geophysics) methods.
 
 I am currently a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/). Previously, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/).
 
@@ -12,7 +12,7 @@ I am interested in applying physics, mathematics and high performance computing 
 
 During my [PhD](https://scholarworks.boisestate.edu/td/1642/) I developed a non-linear optimization method for high-resolution imaging of the subsurface by joining two different types of electromagnetic surface-acquired data. During my [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) I worked on graph theory, error correcting codes, finite geometries and combinatorics.
 
-🔰→ For my electromagnetic subsurface exploration code (using 2.5D EM waves and DC currents), please visit [__gerjoii__](https://github.com/diegozain/gerjoii).
+🔰→ For my electromagnetic subsurface exploration code, please visit [__gerjoii__](https://github.com/diegozain/gerjoii).
 
 🍀→ For a wide variety of projects, please visit [__alles__](https://github.com/diegozain/alles).
 

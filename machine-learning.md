@@ -33,5 +33,3 @@ Figure 4 shows subsurface models that were not used during training. Figure 5 sh
 ![](images/pic2pic_test_x-.png)
 
 ![](images/pic2pic_test_y-.png)
-
----
