@@ -6,9 +6,9 @@ layout: default
 
 I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization). My main focus is developing new high-resolution [exploration-geophysics](https://en.wikipedia.org/wiki/Exploration_geophysics) methods.
 
-I am currently a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring. Previously, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics inversions.
+I am currently a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring. Previously, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics high-resolution inversions.
 
-I have a [Bachelors](132.248.9.195/ptd2013/Presenciales/0689163/Index.html) & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
+I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
 
 *Broadly, I like making things more efficient and less costly by exploting combinatorial structures and/or continuous spaces.*
 
