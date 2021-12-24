@@ -20,6 +20,8 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 
 ## 📚 publications
 
+* [Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface](https://doi.org/10.1190/geo2021-0161.1), __Diego Domenzain, John Bradford, and Jodi Mead__.  _Geophysics, 87_. 2022.
+
 * [Multiphysics joint inversion of field FWI-GPR and ER surface acquired data](https://doi.org/10.1190/segam2021-3576479.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _First International Meeting for Applied Geoscience & Energy_ 2021.
 
 * [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 86_. 2021.
