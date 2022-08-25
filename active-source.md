@@ -24,6 +24,12 @@ Can we find the 3D spread of the remediation agent in the subsurface using DC da
 
 On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. The colored dots denote the location of the injections.
 
+## 📡 GPR 2d full-waveform inversion
+
+This is a synthetic example of what GPR full-waveform inversion can do. For a field study visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1)
+
+![](images/tinyradar.png)
+
 ## 🔌 ER 2.5d inversion
 
 [Gerjoii](https://github.com/diegozain/gerjoii) supports 2.5d inversion of ER data. Below is an example of an imaged alluvial aquifer.
