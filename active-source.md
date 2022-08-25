@@ -26,7 +26,7 @@ On the left is the DCIP instrument used in this survey. On the right is the 3D t
 
 ## 📡 GPR 2d full-waveform inversion
 
-This is a synthetic example of what GPR full-waveform inversion can do. For a field study visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1)
+This is a synthetic example of what GPR full-waveform inversion can do. For a field study visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1).
 
 ![](images/tinyradar.png)
 
