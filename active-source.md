@@ -16,9 +16,17 @@ For a digested code-tour go [here](https://github.com/diegozain/gerjoii/blob/mas
 
 Code suite for processing waveforms as recorded by receivers in the field. Features include: frequency domain filtering, beamforming analysis, frequency time analysis, multichannel analysis of surface waves, and virtual source gathers by seismic interferometry. Lives inside [Gerjoii.](https://github.com/diegozain/gerjoii)
 
+## 🔌⛽ remediation monitoring
+
+Can we find the 3D spread of the remediation agent in the subsurface using DC data? Yes, it is the blue stuff.
+
+![](images/adapt-dcip.png)
+
+On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse of before and after the injection of the remediation agent.
+
 ## 🔌 ER 2.5d inversion
 
-Supports 2.5d inversion of ER data. Below is an example of an imaged alluvial aquifer.
+[Gerjoii](https://github.com/diegozain/gerjoii) supports 2.5d inversion of ER data. Below is an example of an imaged alluvial aquifer.
 
 ![](images/bhrs-er.jpg)
 ![](images/bhrs-dc.png)

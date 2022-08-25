@@ -20,6 +20,8 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 
 ## 📚 publications
 
+* [3D inversion and visualization of DC data acquired at dense borehole location](https://library.seg.org/doi/10.1190/image2022-3742200.1), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__.  _Second International Meeting for Applied Geoscience & Energy_ 2022.
+
 * [Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface](https://doi.org/10.1190/geo2021-0161.1), __Diego Domenzain, John Bradford, and Jodi Mead__.  _Geophysics, 87_. 2022.
 
 * [Multiphysics joint inversion of field FWI-GPR and ER surface acquired data](https://doi.org/10.1190/segam2021-3576479.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _First International Meeting for Applied Geoscience & Energy_ 2021.
