@@ -29,7 +29,6 @@ On the left is the DCIP instrument used in this survey. On the right is the 3D t
 Visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1) for details!
 
 ![](images/condus.png)
-![](images/permis.png)
 
 ## 📡 GPR 2d full-waveform inversion
 
@@ -48,7 +47,7 @@ Visit the peer-reviewed [paper](https://library.seg.org/doi/10.1190/geo2020-0373
 
 Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
 
-😉 This method is way better than Res2dInv
+😉 This method is way better than Res2dInv.
 
 ![](images/gerjoii-vs-res2dinv.png)
 
