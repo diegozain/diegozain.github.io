@@ -50,7 +50,7 @@ Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is 
 
 😉 This method is way better than Res2dInv
 
-![](images/gerjoii-vs-res2dinv.jpg)
+![](images/gerjoii-vs-res2dinv.png)
 
 ## 🌳 radar on trees
 
