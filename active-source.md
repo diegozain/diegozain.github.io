@@ -24,6 +24,13 @@ Can we find the 3D spread of the remediation agent in the subsurface using DC da
 
 On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. The colored dots denote the location of the injections.
 
+## 📡🔌 GPR+DC 2d multiphysics GPR full-waveform inversion & DC data
+
+Visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1) for details!
+
+![](images/condus.png)
+![](images/permis.png)
+
 ## 📡 GPR 2d full-waveform inversion
 
 This is a synthetic example of what GPR full-waveform inversion can do. For a field study visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1).
@@ -32,12 +39,18 @@ This is a synthetic example of what GPR full-waveform inversion can do. For a fi
 
 ## 🔌 ER 2.5d inversion
 
+Visit the peer-reviewed [paper](https://library.seg.org/doi/10.1190/geo2020-0373.1)
+
 [Gerjoii](https://github.com/diegozain/gerjoii) supports 2.5d inversion of ER data. Below is an example of an imaged alluvial aquifer.
 
 ![](images/bhrs-er.jpg)
 ![](images/bhrs-dc.png)
 
 Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is a 1m depth marker. Solid lines are borehole locations.
+
+😉 This method is way better than Res2dInv
+
+![](images/gerjoii-vs-res2dinv.jpg)
 
 ## 🌳 radar on trees
 
