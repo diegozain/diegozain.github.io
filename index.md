@@ -42,7 +42,7 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 
 My PhD was about __ground penetrating radar and DC electrical resistivity high resolution joint inversion__ - [code](https://github.com/diegozain/gerjoii), [webpage](./gerjoii)
 
-High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO2 sequestration sites and understand ground-water flow.
+High-resolution non-invasive electrical methods for imaging the shallow subsurface are beneficial for Humanity. They shed light on subsurface energy resources (i.e. oil, gas, geothermal), monitor CO₂ sequestration sites and understand ground-water flow.
 
 [![](images/wavefield-lava.gif)](./gerjoii)
 
