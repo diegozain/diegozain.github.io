@@ -24,7 +24,7 @@ Can we find the **3D** spread of the remediation agent in the subsurface using D
 
 On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. The colored dots denote the location of the injections.
 
-![](images/adapt-dcip.png)
+![](images/quots.gif)
 
 ## 📡🔌 2d multiphysics: GPR full-waveform inversion & DC data
 
