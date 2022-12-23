@@ -53,7 +53,7 @@ Red is where the ground-water is. Yellow is where dry sand lies. Dashed line is 
 
 ![](images/gerjoii-vs-res2dinv.png)
 
-## 🌳 radar on trees
+## 📡🌳 radar on trees
 
 Forward modeling of radar on trees. _Left_ is the wavefield in the tree and _right_ is the observed data.
 
