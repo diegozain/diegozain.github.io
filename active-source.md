@@ -22,7 +22,7 @@ Can we find the **3D** spread of the remediation agent in the subsurface using D
 
 ![](images/adapt-dcip.png)
 
-On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. The colored dots denote the location of the injections.
+On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. Below is a 3D animation of the image on the right showing the plumme of the injected material. The colored dots denote the location of the injections.
 
 ![](images/quots.gif)
 
