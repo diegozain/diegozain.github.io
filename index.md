@@ -20,6 +20,10 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 
 ## 📚 publications
 
+* [Remediation monitoring guided by 3D time-lapse inversion of dense DC borehole data](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202220084), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__. _NSG2022 4th Conference on Geophysics for Mineral Exploration and Mining_ 2022.
+
+* [A 4D cross-borehole direct current resistivity system for monitoring in-situ groundwater remediation](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202220117), __L Liu, E Auken, D Domenzain, PK Maurya, TS Bording, B Bjerre, I Vela, AV Christiansen__, _NSG2022 4th Conference on Geophysics for Mineral Exploration and Mining_ 2022.
+
 * [3D inversion and visualization of DC data acquired at dense borehole location](https://library.seg.org/doi/10.1190/image2022-3742200.1), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__.  _Second International Meeting for Applied Geoscience & Energy_ 2022.
 
 * [Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface](https://doi.org/10.1190/geo2021-0161.1), __Diego Domenzain, John Bradford, and Jodi Mead__.  _Geophysics, 87_. 2022.
