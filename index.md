@@ -16,7 +16,7 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 
 🍀 For a wide variety of projects, please visit [__alles__](https://github.com/diegozain/alles).
 
-• [Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) • [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) • [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain) • [GitHub](https://github.com/diegozain/) •
+• [Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) • [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) • [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain) • [GitHub](https://github.com/diegozain/) • [Orcid](https://orcid.org/0000-0002-5052-9354) 0000-0002-5052-9354
 
 ## 📚 publications
 
