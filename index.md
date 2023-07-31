@@ -6,7 +6,7 @@ layout: default
 
 I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization). My main focus is developing new high-resolution [exploration-geophysics](https://en.wikipedia.org/wiki/Exploration_geophysics) methods.
 
-I am currently a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring. Previously, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics, high-resolution inversions.
+I am currently a computational geophysicist at [AGS-Seequent](https://www.seequent.com/). Before that I was a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring. And before that, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics, high-resolution inversions.
 
 I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
 
@@ -19,6 +19,8 @@ I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cg
 • [Linkedin](https://www.linkedin.com/in/diego-domenzain-67431171/) • [GoogleScholar](https://scholar.google.com/citations?user=tve8X08AAAAJ&hl) • [ResearchGate](https://www.researchgate.net/profile/Diego_Domenzain) • [GitHub](https://github.com/diegozain/) • [Orcid](https://orcid.org/0000-0002-5052-9354) • 
 
 ## 📚 publications
+
+* [3D DC inversion, visualization, and processing of dense time-lapse data in fine domains applied to remediation monitoring](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1), __Diego Domenzain, Lichao Liu, Ivan Y. Vela, and Anders V. Christiansen__. _Geophysics, 88_. 2023.
 
 * [Remediation monitoring guided by 3D time-lapse inversion of dense DC borehole data](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202220084), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__. _NSG2022 4th Conference on Geophysics for Mineral Exploration and Mining_ 2022.
 
