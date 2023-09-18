@@ -8,7 +8,7 @@ I am an applied mathematician interested in [numerical modelling](https://en.wik
 
 I am currently a computational geophysicist at [AGS-Seequent](https://www.seequent.com/). Before that I was a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring. And before that, I was in **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics, high-resolution inversions.
 
-I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./diego-cv.pdf)** and my **[resume](./resume.pdf)**.
+I have a Bachelors & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./curri_diego.pdf)** and my **[resume](./resu_diego.pdf)**.
 
 *Broadly, I like making things more efficient and less costly by exploting combinatorial structures and/or discretized continuous spaces.*
 
