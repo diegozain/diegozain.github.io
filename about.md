@@ -4,7 +4,7 @@ layout: default
 
 ## 😎 about me
 
-📝🎓 you can find my resume **[here](./resu_diego.pdf)** and my CV **[here](./curri_diego.pdf)**.
+📝🎓 you can find my CV **[here](./diego_domenzain_cv.pdf)**.
 
 📧✏️ domenzain.diego@gmail.com.
 
