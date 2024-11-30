@@ -20,6 +20,8 @@ I have a [Bachelors](https://ru.dgb.unam.mx/bitstream/20.500.14330/TES0100068916
 
 ## 📚 publications
 
+* [An efficient cross-borehole direct current resistivity monitoring instrument](https://library.seg.org/doi/10.1190/geo2023-0518.1), __Lichao Liu, Diego Domenzain Gonzalez, Ivan Vela, Pradip Kumar Maurya, Anders K. Kühl, Thue Bording, Palle Ejlskov, Esben Auken, Jakob Juul Larsen, and Anders Vest Christiansen__. _Geophysics_. 2024. (too many authors on this one)
+
 * [3D DC inversion, visualization, and processing of dense time-lapse data in fine domains applied to remediation monitoring](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1), __Diego Domenzain, Lichao Liu, Ivan Y. Vela, and Anders V. Christiansen__. _Geophysics, 88_. 2023.
 
 * [Remediation monitoring guided by 3D time-lapse inversion of dense DC borehole data](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202220084), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__. _NSG2022 4th Conference on Geophysics for Mineral Exploration and Mining_ 2022.
