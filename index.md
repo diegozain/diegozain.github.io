@@ -6,7 +6,7 @@ layout: default
 
 I am an applied mathematician interested in [numerical modelling](https://en.wikipedia.org/wiki/Computer_simulation), non-linear [inverse problems](https://en.wikipedia.org/wiki/Inverse_problem) & [optimization methods](https://en.wikipedia.org/wiki/Mathematical_optimization). My main focus is developing new high-resolution [exploration-geophysics](https://en.wikipedia.org/wiki/Exploration_geophysics) methods.
 
-I am currently a computational geophysicist at [Seequent](https://www.seequent.com/). Before that I was a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring, and before that I was a post-doc fellow at **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics, high-resolution inversions.
+I am currently a computational physicist at [Seequent](https://www.seequent.com/). Before that I was a post-doc fellow at **Aarhus University** in the [Hydro-Geophysics Group](https://hgg.au.dk/) working on remmediation monitoring, and before that I was a post-doc fellow at **Colorado School of Mines** in the [Geophysics Department](https://cwp.mines.edu/faculty/) working on joint-multiphysics, high-resolution inversions.
 
 I have a [Bachelors](https://ru.dgb.unam.mx/bitstream/20.500.14330/TES01000689163/3/0689163.pdf) & [Masters](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1806&context=etds) in Mathematics, and a [PhD](https://scholarworks.boisestate.edu/td/1642/) in Geophysics. Read more about it in my **[curriculum vitae](./curri_diego.pdf)**.
 
@@ -21,6 +21,8 @@ I have a [Bachelors](https://ru.dgb.unam.mx/bitstream/20.500.14330/TES0100068916
 ## 📚 publications
 
 * [An efficient cross-borehole direct current resistivity monitoring instrument](https://library.seg.org/doi/10.1190/geo2023-0518.1), __Lichao Liu, Diego Domenzain Gonzalez, Ivan Vela, Pradip Kumar Maurya, Anders K. Kühl, Thue Bording, Palle Ejlskov, Esben Auken, Jakob Juul Larsen, and Anders Vest Christiansen__. _Geophysics_. 2024. (too many authors on this one)
+
+* [3D DC survey design for electrodes at the surface](https://library.seg.org/doi/10.1190/image2024-4094164.1), __Diego Domenzain__. _Fourth International Meeting for Applied Geoscience & Energy_ 2024.
 
 * [3D DC inversion, visualization, and processing of dense time-lapse data in fine domains applied to remediation monitoring](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1), __Diego Domenzain, Lichao Liu, Ivan Y. Vela, and Anders V. Christiansen__. _Geophysics, 88_. 2023.
 
@@ -57,5 +59,3 @@ High-resolution non-invasive electrical methods for imaging the shallow subsurfa
 ## 📺 media coverage
 
 [Here](https://www.boisestatepublicradio.org/post/boise-state-students-search-bodies-old-idaho-pen#stream/0) is a radio interview about finding graves at the [Old Idaho Penitentiary](https://history.idaho.gov/location/old-penitentiary/), which is also covered [here](https://www.boisestate.edu/news/2019/03/05/geophysics-club-works-to-help-solve-mysteries-in-historic-boise-cemetery/) and [here](./gerjoii).
-
-[Here](https://focus.boisestate.edu/article/ph-d-in-geophysics/) I talk about how you don't need to know about rocks to do geophysics.
