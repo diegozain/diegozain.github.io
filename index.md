@@ -20,15 +20,13 @@ I have a [Bachelors](https://ru.dgb.unam.mx/bitstream/20.500.14330/TES0100068916
 
 ## 📚 publications
 
-* [An efficient cross-borehole direct current resistivity monitoring instrument](https://library.seg.org/doi/10.1190/geo2023-0518.1), __Lichao Liu, Diego Domenzain Gonzalez, Ivan Vela, Pradip Kumar Maurya, Anders K. Kühl, Thue Bording, Palle Ejlskov, Esben Auken, Jakob Juul Larsen, and Anders Vest Christiansen__. _Geophysics_. 2024. (too many authors on this one)
+* ★ [An efficient cross-borehole direct current resistivity monitoring instrument](https://library.seg.org/doi/10.1190/geo2023-0518.1), __Lichao Liu, Diego Domenzain Gonzalez, Ivan Vela, Pradip Kumar Maurya, Anders K. Kühl, Thue Bording, Palle Ejlskov, Esben Auken, Jakob Juul Larsen, and Anders Vest Christiansen__. _Geophysics_. 2024.
 
 * [3D DC survey design for electrodes at the surface](https://library.seg.org/doi/10.1190/image2024-4094164.1), __Diego Domenzain__. _Fourth International Meeting for Applied Geoscience & Energy_ 2024.
 
-* [3D DC inversion, visualization, and processing of dense time-lapse data in fine domains applied to remediation monitoring](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1), __Diego Domenzain, Lichao Liu, Ivan Y. Vela, and Anders V. Christiansen__. _Geophysics, 88_. 2023.
+* ★ [3D DC inversion, visualization, and processing of dense time-lapse data in fine domains applied to remediation monitoring](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1), __Diego Domenzain, Lichao Liu, Ivan Y. Vela, and Anders V. Christiansen__. _Geophysics, 88_. 2023.
 
-* [Comparison of tTEM-IP and ERT-IP: cases from mine tailing sites in Sweden](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202320114), __L.M. Madsen1, M.R. Asif, P.K. Maurya, A.K. Kühl1, D. Domenzain, C. Jensen, T. Martin, M. Bastani and L. Persson__. _NSG2023 29th European Meeting of Environmental and Engineering Geophysics_. 2023.
-
-Madsen, L. M., Asif, M. R., Maurya, P. K., Kühl, A. K., Domenzain, D., Jensen, C., ... & Persson, L. (2023, September). . In NSG2023 29th European Meeting of Environmental and Engineering Geophysics (Vol. 2023, No. 1, pp. 1-5). European Association of Geoscientists & Engineers.
+* [Comparison of tTEM-IP and ERT-IP: cases from mine tailing sites in Sweden](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202320114), __L.M. Madsen, M.R. Asif, P.K. Maurya, A.K. Kühl1, D. Domenzain, C. Jensen, T. Martin, M. Bastani and L. Persson__. _NSG2023 29th European Meeting of Environmental and Engineering Geophysics_. 2023.
 
 * [Remediation monitoring guided by 3D time-lapse inversion of dense DC borehole data](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202220084), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__. _NSG2022 4th Conference on Geophysics for Mineral Exploration and Mining_ 2022.
 
@@ -36,15 +34,15 @@ Madsen, L. M., Asif, M. R., Maurya, P. K., Kühl, A. K., Domenzain, D., Jensen, 
 
 * [3D inversion and visualization of DC data acquired at dense borehole location](https://library.seg.org/doi/10.1190/image2022-3742200.1), __Diego Domenzain, Lichao Liu, Anders K. Kühl, Ivan Y. Vela, and Anders V. Christiansen__.  _Second International Meeting for Applied Geoscience & Energy_ 2022.
 
-* [Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface](https://doi.org/10.1190/geo2021-0161.1), __Diego Domenzain, John Bradford, and Jodi Mead__.  _Geophysics, 87_. 2022.
+* ★ [Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface](https://doi.org/10.1190/geo2021-0161.1), __Diego Domenzain, John Bradford, and Jodi Mead__.  _Geophysics, 87_. 2022.
 
 * [Multiphysics joint inversion of field FWI-GPR and ER surface acquired data](https://doi.org/10.1190/segam2021-3576479.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _First International Meeting for Applied Geoscience & Energy_ 2021.
 
-* [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 86_. 2021.
+* ★ [Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/geo2020-0373.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 86_. 2021.
 
-* [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
+* ★ [Joint inversion of full-waveform GPR and ER data. Part 2: enhancing low frequencies with the envelope transform and cross-gradients](https://library.seg.org/doi/10.1190/geo2019-0755.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
 
-* [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
+* ★ [Joint inversion of full-waveform GPR and ER data. Part 1](https://library.seg.org/doi/10.1190/geo2019-0754.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _Geophysics, 85(6)_. 2020.
 
 * [Inversion of 2.5D electrical resistivity data using the discrete adjoint method](https://library.seg.org/doi/10.1190/segam2020-3417486.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2020.
 
@@ -52,7 +50,7 @@ Madsen, L. M., Asif, M. R., Maurya, P. K., Kühl, A. K., Domenzain, D., Jensen, 
 
 * [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2018.
 
-* [A finite version of the Kakeya problem](https://arxiv.org/abs/1503.06639), __S Ball, A Blokhuis, D Domenzain__. _arXiv preprint_ 2015.
+* ★ [A finite version of the Kakeya problem](https://arxiv.org/abs/1503.06639), __S Ball, A Blokhuis, D Domenzain__. _arXiv preprint_ 2015.
 
 ## 📡 imaging the subsurface
 
