@@ -18,15 +18,15 @@ Code suite for processing waveforms as recorded by receivers in the field. Featu
 
 ## 🔌⛽ remediation monitoring
 
-Can we find the **3D** spread of the remediation agent in the subsurface using DC data? Yes, it is the blue stuff.
+Can we find the **3D** spread of the remediation agent in the subsurface using DC data? Yes, it is the blue stuff. Read more about it in the peer-reviewed [paper](https://library.seg.org/doi/abs/10.1190/geo2023-0093.1)
 
 ![](images/adapt-dcip.png)
 
-On the left is the DCIP instrument used in this survey. On the right is the 3D time-lapse result before and after the injection of the remediation agent. Below is a 3D animation of the image on the right showing the plumme of the injected material. The colored dots denote the location of the injections.
+On the left is the DCIP instrument used in this survey and described [here](https://library.seg.org/doi/10.1190/geo2023-0518.1). On the right is the 3D time-lapse result before and after the injection of the remediation agent. Below is a 3D animation of the image on the right showing the plumme of the injected material. The colored dots denote the location of the injections.
 
 ![](images/quots.gif)
 
-Click [here](images/quots23.gif) for another example.
+Click [here](images/quots23.gif) for another example of the same experiment at a later time: "was the first result a fluke?" no it was not.
 
 ## 📡🔌 2d multiphysics: GPR full-waveform inversion & DC data
 
