@@ -26,11 +26,17 @@ On the left is the DCIP instrument used in this survey. On the right is the 3D t
 
 ![](images/quots.gif)
 
+![](images/quots23.gif)
+
 ## 📡🔌 2d multiphysics: GPR full-waveform inversion & DC data
 
 Visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1) for details!
 
 ![](images/condus.png)
+
+![](images/data-wdc-color.png)
+
+![](images/wavefield-wbg.gif)
 
 ## 📡 GPR 2d full-waveform inversion
 
