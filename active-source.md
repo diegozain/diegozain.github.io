@@ -34,9 +34,9 @@ Visit the peer-reviewed [paper](https://doi.org/10.1190/geo2021-0161.1) for deta
 
 ![](images/condus.png)
 
-![](images/data-wdc-color.png)
-
 ![](images/wavefield-wbg.gif)
+
+![](images/data-wdc-color.png)
 
 ## 📡 GPR 2d full-waveform inversion
 
