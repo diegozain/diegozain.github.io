@@ -50,6 +50,8 @@ I have a [Bachelors](https://ru.dgb.unam.mx/bitstream/20.500.14330/TES0100068916
 
 * [Joint inversion of GPR and ER data](https://library.seg.org/doi/10.1190/segam2018-2997794.1), __Diego Domenzain, John Bradford, and Jodi Mead__. _SEG Technical Program Expanded Abstracts_ 2018.
 
+* [Computational and Analytical Aspects of Image Reconstruction](https://icerm.brown.edu/program/topical_workshop/tw-15-2). Attended July 13 - 17, 2015.
+
 * ★ [A finite version of the Kakeya problem](https://arxiv.org/abs/1503.06639), __S Ball, A Blokhuis, D Domenzain__. _arXiv preprint_ 2015.
 
 ## 📡 imaging the subsurface
